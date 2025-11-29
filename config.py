@@ -1,0 +1,3 @@
+BOT_TOKEN="7850850866:AAH8Kt7-6h3ejsgy683fp9ryCDz3y3ITpyo"
+bot=telebot.TeleBot(BOT_TOKEN)
+KEY='0e7a020876f769b4f2b4a135'
